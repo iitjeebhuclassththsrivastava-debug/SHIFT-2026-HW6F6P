@@ -1,0 +1,6 @@
+{
+  "name": "E-Move: Battery-Aware Route Recommendation",
+  "description": "Integrated battery-aware route recommendation system for e-cycle riders with SOH degradation modeling, terrain elevation, weather impact, and charging station fallbacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
